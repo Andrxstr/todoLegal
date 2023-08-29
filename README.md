@@ -1,4 +1,4 @@
-# prueba_todolegal
+# Prueba Tecnica Todo Legal
 
 ## Project setup
 ```
