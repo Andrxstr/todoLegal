@@ -52,5 +52,9 @@ El aplicativo tiene las siguientes validaciones:
     -Que el area o seccion donde se cargan o arrastran los archivos, no se puedan cargar mas de 5 archivos
     -Que el tamaño de los archivos no exceda las 20 Mb
 
+### IMPORTANTE
+
+Es importante que se tenga en la maquina instalado vue y vue CLI para no tener ningun error a la hora de instalar las dependencias o para ejecutar el aplicativo
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
