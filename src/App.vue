@@ -69,7 +69,6 @@ export default {
 
 body {
   margin: 0;
-  /* height: 100vh; */
 }
 
 .content-page {
@@ -131,7 +130,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  /* margin-top: 120px; */
 }
 
 .navbar {
@@ -148,8 +146,6 @@ body {
 @media (max-width: 768px) {
   #app{
   width: 100%;
-  /* background: -webkit-linear-gradient(to top, #eef2f3, #8e9eab);
-  background: linear-gradient(to top, #d9e2f2, #f5f6f6); */
   }
 
   .navbar{
